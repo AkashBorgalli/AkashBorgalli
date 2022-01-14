@@ -46,7 +46,7 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/en-us/composer/introduction?tabs=v2x" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/ytc/AKedOLSkhn1ORKqHXi8-LL6HuMmN02Wow91VYrd-h5nK=s900-c-k-c0x00ffffff-no-rj" alt="bot composer" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="http://assets.stickpng.com/images/58481537cef1014c0b5e4968.png" alt="pycharm" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"/> </a>
 <a href="https://www.mulesoft.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_MW9TpfKNVDvZvLSZE2QZlX5CAjQfj_XtEAsF5n-f3JuI7t3vzjpUrj_Tg9ab3r_2XQ&usqp=CAU" alt="mulesoft" width="40" height="40"/> </a> 
 <a href="https://www.mulesoft.com/platform/studio" target="_blank" rel="noreferrer"> <img src="https://blogs.mulesoft.com/wp-content/uploads/2016/08/6.1-studio-release-2.png" alt="anypointstudio" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
