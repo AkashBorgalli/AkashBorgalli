@@ -84,7 +84,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Akash Borgalli's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Akashborgalli&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img align="left" alt="Akash Borgalli's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashBorgalli&show_icons=true&locale=en&layout=compact" />
+  <img align="right" alt="Akash Borgalli's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashBorgalli&show_icons=true&locale=en&layout=compact" />
 
 </details>
 
