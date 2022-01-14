@@ -2,7 +2,7 @@
 
 
 
-## I'm a DataScientist,	 Azure AI Engineer, Azure Administrator, MuleSoft Developer !!
+## I'm a DataScientist,	 Azure AI Engineer, Azure Administrator & MuleSoft Developer !!
 
 - 👩‍💻 I'm currently working on my DataScience projects
 
