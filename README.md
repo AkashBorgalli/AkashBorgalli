@@ -67,6 +67,13 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Akash Borgalli's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Akashborgalli&show_icons=true&hide_border=true&theme=tokyonight" />
+
+</details>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashBorgalli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
