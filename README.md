@@ -26,7 +26,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="MuleSoft" width="26px" src="https://previews.123rf.com/images/creativepriyanka/creativepriyanka1912/creativepriyanka191200891/136627312-icon-for-mulesoft-logo.jpg" />]
@@ -56,11 +56,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Confusion Matrix for N X N Matrix](https://akash-borgalli.medium.com/confusion-matrix-for-n-x-n-matrix-488e8ff18321?source=rss-590ae49b4a57------2)
-- [Interview Machine Learning Questions Set 2&lpar;1 to 10&rpar;](https://akash-borgalli.medium.com/interview-machine-learning-questions-set-2-1-to-10-ec1f66563d4d?source=rss-590ae49b4a57------2)
-- [Interview Questions Set 1&lpar;51 to 60&rpar;](https://akash-borgalli.medium.com/interview-questions-set-1-51-to-60-568295f59c79?source=rss-590ae49b4a57------2)
-- [Interview Questions Set 1&lpar;31 to 40&rpar;](https://akash-borgalli.medium.com/interview-questions-set-1-31-to-40-3a50102dfb69?source=rss-590ae49b4a57------2)
-- [Interview Questions Set 1&lpar;21 to 30&rpar;](https://akash-borgalli.medium.com/interview-questions-set-1-21-to-30-ed791e9289fb?source=rss-590ae49b4a57------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://akash-borgalli.medium.com/)
