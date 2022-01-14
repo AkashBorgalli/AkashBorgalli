@@ -62,16 +62,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashBorgalli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
