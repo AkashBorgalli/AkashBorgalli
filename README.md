@@ -73,11 +73,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="AkashBorgalli's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AkashBorgalli&show_icons=true&hide_border=true" />
+  <img align="left" alt="AkashBorgalli's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Akash Borgalli&show_icons=true&hide_border=true" />
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashBorgalli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash Borgalli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [youtube]: https://www.youtube.com/channel/UCbDyhfTlNy3DDWjPVdhUOlw
